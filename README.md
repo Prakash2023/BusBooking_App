@@ -19,7 +19,7 @@ but will be thoroughly reviewed .
 
 ### Contact - Let's become friend
 - [Twitter](https://twitter.com/shashank020597)
-- [Github](https://github.com/Shashank02051997)
+- [Github](https://github.com/NooBGurmeeT)
 - [Linkedin](https://www.linkedin.com/in/shashank-singhal-a87729b5/)
 - [Facebook](https://www.facebook.com/shashanksinghal02)
 
