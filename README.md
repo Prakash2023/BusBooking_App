@@ -1,40 +1,11 @@
 # BusBookingUI-Android
-**This is the Report Document of the android Application, ‘Online Bus Booking System’, a database**
-project at the Information Technology Department of Indian Institute of Information Technology,
-Allahabad (Uttar Pradesh).\n
-It is an android application that provides many services and benefits to the people.It provides an
-easy ticket booking system based on their requirement. The application provides the details of
-buses ,their timings and seats available.
-Important Features
-● It simplifies the task and reduces paperwork.
-● Accuracy and user friendly.
-● Efficiency and reliability.
-Scope:-
-The scope the online bus booking system is :-
-User should be able to :-
-● Sign-up & Login
-● Change the password.
-● view his bookings.
-● book a new booking.
-● cancel the ticket.
-● invoice the ticket.
-● add the bank details.
-● View his pending cancels.
-Admin should be able to:-
-● Sign-up & Login
-● Change the password.
-● view his bus details(registered under his account).
-● Add a new bus(will be registered under his account).
-● Update a bus details(registered under his account)..
-● Check the booking details of a particular user.● Can cancel or print invoices of the user.
-● See the pending cancels and refund the cancels.
-● Add his merchant Upi-Id for receiving payment.
+This is a Android application for online bus booking.
 
 ## Screenshots
 
 **Please click the image below to enlarge.**
 
-<img src="https://github.com/NooBGurmeeT/BusBooking_App/blob/master/Screenshots/Screenshot_20190209-232227.jpg" height="600" width="300" hspace="40"><img src="https://github.com/Shashank02051997/BusBookingUI-Android/blob/master/Screenshots/Screenshot_20190209-232255.png" height="600" width="300" hspace="40">
+<img src="https://github.com/Shashank02051997/BusBookingUI-Android/blob/master/Screenshots/modi.png" height="600" width="300" hspace="40"><img src="https://github.com/Shashank02051997/BusBookingUI-Android/blob/master/Screenshots/Screenshot_20190209-232255.png" height="600" width="300" hspace="40">
 
 <img src="https://github.com/Shashank02051997/BusBookingUI-Android/blob/master/Screenshots/Screenshot_20190209-232300.png" height="600" width="300" hspace="40"><img src="https://github.com/Shashank02051997/BusBookingUI-Android/blob/master/Screenshots/Screenshot_20190209-232303.png" height="600" width="300" hspace="40">
 
