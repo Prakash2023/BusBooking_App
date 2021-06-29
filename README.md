@@ -1,5 +1,5 @@
 # BusBookingUI-Android
-This is the Report Document of the android Application, ‘Online Bus Booking System’, a database
+**This is the Report Document of the android Application, ‘Online Bus Booking System’, a database**
 project at the Information Technology Department of Indian Institute of Information Technology,
 Allahabad (Uttar Pradesh).
 It is an android application that provides many services and benefits to the people.It provides an
